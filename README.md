@@ -1,4 +1,6 @@
 [![buddy pipeline](https://app.buddy.works/kulishvladislav/test-tickets/pipelines/pipeline/200477/badge.svg?token=841f0d4ec25345d65a637748636f62b9c0e5866bab76c6bbd7a603900c1e9b7a "buddy pipeline")](https://app.buddy.works/kulishvladislav/test-tickets/pipelines/pipeline/200477)
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4e94340d706f524d2e4a)
 # Tickets
 
 * Create database "tickets"
