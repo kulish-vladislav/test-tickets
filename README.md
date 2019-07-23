@@ -1,7 +1,7 @@
-
+[![buddy pipeline](https://app.buddy.works/kulishvladislav/test-tickets/pipelines/pipeline/200477/badge.svg?token=841f0d4ec25345d65a637748636f62b9c0e5866bab76c6bbd7a603900c1e9b7a "buddy pipeline")](https://app.buddy.works/kulishvladislav/test-tickets/pipelines/pipeline/200477)
 # Tickets
 
-* Create database "idea_projects"
+* Create database "tickets"
 * For same test data execute "src/main/resources/_import.sql"
 * For the database connection in app, add in your system environment next variables:
    1) $DB_IDEA_USER
